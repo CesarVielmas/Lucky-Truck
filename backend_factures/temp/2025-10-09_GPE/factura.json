@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "processed_at": "2025-11-18T23:12:46.840263",
+    "type": "facture_trip",
+    "folder_name": "2025-10-09_GPE"
+  },
+  "data_facture": {
+    "name_business": "RECOLECTORA DE FIBRAS SECUNDARIAS, S.A de C.V",
+    "business_region": "GUADALUPE",
+    "business_ubication": "GUADALUPE CAMINO A VAQUERIAS NO. 300 COL XOCHIMILCO NUEVO LEON MEXICO 67190",
+    "key": "F-02-CBB-FSC",
+    "code_facture": "GPE3420",
+    "type_material": "CARTON NACIONAL Material Recuperado post Consumo",
+    "type_movement": "PESO BRUTO CON CARGA",
+    "date_entry": "2025-10-09 09:26:08",
+    "cuantity_bales": 24,
+    "container": 0,
+    "type_document": "FACTURA: 0",
+    "date_exit": "2025-10-09 10:13:38",
+    "proveedor": "REFISESA GUADALUPE (G0000)",
+    "name_transport": "LUCKY TRUCK",
+    "name_operator": "JOSÉ ANTONIO VIELMAS",
+    "plates": "40AY1V",
+    "ubication_trip": "PATIO",
+    "gross_weight": 37570.0,
+    "tare_weight": 16290.0,
+    "net_weight": 21280.0,
+    "not_suitable": 0.0,
+    "forbiden_weight": 0.0,
+    "humidity": 0.0,
+    "kg_desc_not_suitable": 0.0,
+    "kg_desc_forbiden": 0.0,
+    "kg_desc_humidity": 0.0,
+    "kg_desc_accepted_weight": 21280.0,
+    "recibes_trip": "2025-10-10 00:00:00"
+  },
+  "data_crud": "RECOLECTORA DE FIBRAS SECUNDARIAS SA DE C.V.\tClave F-02-CBB-FSC\t\r\nRECICLADORA GUADALUPE\tBOLETA DE BASCULA\t\r\nREFISESA\tGP E3420\t\r\nGUADALUPE CAMINO A VAQUERIAS NO. 300 COL XOCHIMILCO NUEVO LEON MEXICO 67190\t\r\nFOLIO DE CONTROL\tDATOS DE ENTRADA\tDATOS DE CALIDAD\t\r\nTipo de Material\tCARTON NACIONAL Material Recuperado post Consumo\t\r\nPeso Bruto\t37,570.00\t\r\nTipo Movimiento\tPESO BRUTO CON CARGA\t\r\nEntrada\t10/9/2025 9:26:08AM\tPeso Tara\t16,290.00\t\r\nPacas\t24\t\r\nPeso Neto\t21,280.00\t\r\nContenedor\t0\t\r\n0.00\t\r\nTipo Documento\tFACTURA: 0\t% No Aptos\t\r\n0.00\t\r\nSalida\t10/9/2025 10:13:38AM\t% Prohibidos\t\r\n0.00\t\r\nProveedor\tREFISESA GUADALUPE (G0000)\t% Humedad\t\r\n0.00\t\r\nTransportista\tLUCKY TRUCK\tKg Desc No Aptos\t\r\nKg Desc Prohibidos\t0.00\t\r\nOperador\tJOSE ANTONIO VIELMAS\t\r\nKg Desc Humedad\t0.00\t\r\nPlacas\t40AY1V\t\r\nPeso Aceptado\t21,280.00\t\r\nUbicacion\tPATIO\t\r\nObservaciones\t\r\nHECULECTOHA DE FIBRAS SECUNDARIAS: S.A. DE GV\t\r\nALMACEN DE MATERIA PRIMA\t\r\nPLANTA GUADALUPE\t\r\n09 OCT 2025\t\r\nPAPELES Y CONVERSIONES GE PENCO. SA DE CV\t\r\n-\tRECIBIDO\tFICV ALMACEN DE MATERIAS PRIMAS\t\r\nPLANTA PAPEL\t\r\nElaboro\t\r\nNOMBRE\tFIRMA\t1 0 OCT 2025\t\r\nRECIBIDO\t\r\nAS SECUNDARIAS, SA de CV",
+  "corrected_timestamp": "2025-11-18T23:17:07.352413",
+  "corrected": true
+}

@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "processed_at": "2025-11-18T20:29:15.202819",
+    "type": "facture_trip",
+    "folder_name": "2025-09-27_GPE"
+  },
+  "data_facture": {
+    "name_business": "RECOLECTORA DE FIBRAS SECUNDARIAS, SA, DE CV.",
+    "business_region": "GUADALUPE",
+    "business_ubication": "GUADALUPE CAMINO A VAQUERIAS NO. 300 COL XOCHIMILCO NUEVO LEON MEXICO 67190",
+    "key": "F-02-CBB-FSC",
+    "code_facture": "GPE3164",
+    "type_material": "OCC MIXTO NACIONAL Material Recuperado post Consumo",
+    "type_movement": "PESO BRUTO CON CARGA",
+    "date_entry": "2025-09-25 10:32:22",
+    "cuantity_bales": 28,
+    "container": 0,
+    "type_document": "FACTURA: 0",
+    "date_exit": "2025-09-25 11:12:32",
+    "proveedor": "REFISESA GUADALUPE (G0000)",
+    "name_transport": "LUCKY TRUCK",
+    "name_operator": "JOSÉ ANTONIO VIELMAS",
+    "plates": "40AY1V",
+    "ubication_trip": "PATIO",
+    "gross_weight": 39450.0,
+    "tare_weight": 15390.0,
+    "net_weight": 24060.0,
+    "not_suitable": 0.0,
+    "forbiden_weight": 0.0,
+    "humidity": 0.0,
+    "kg_desc_not_suitable": 0.0,
+    "kg_desc_forbiden": 0.0,
+    "kg_desc_humidity": 0.0,
+    "kg_desc_accepted_weight": 24060.0,
+    "recibes_trip": "2025-09-27 00:00:00"
+  },
+  "data_crud": "RECOLECIORA DE FIBRAS SECUNDARIAS, SA, DE CV.\tClave: F-02-CBB-FSC\t\r\nRECICLADORA GUADALUPE\tBO EN DE MARCALA\t\r\nREASTSA\tGUADALUPE CAMINO A VAQUERIAS NO. 300 COL XOCHIMILCO NUEVO LEON MEXICO 67190:\t•P23164\t\r\nPOLO DE CONTROL\t¡DATOS DE ENTRADA 3I\tRICH\t\"DATOS DE CALIDAD.\t\r\nTipo de Material\tOCC MIXTO NACIONAL Material Recuperado post Consumo\t\r\nPeso Bruto\t39,450.00\t\r\nTipo Movimiento\tPESO BRUTO CON CARGA\t\r\nEntrada\t9/25/2025 10:32:22AM\tPeso Tara\t15,390.00\t\r\nPacas\t28\t24,060.00\t\r\nContenedor\tPeso Neto:\t\r\nTipo Documento\tFACTURA: 0\t% No Aptos\t0.00\t\r\nSalida\t9/25/2025 11:12:32AM\t% Prohibidos\t0,001\t\r\nProveedor\tREFISESA GUADALUPE (G0000)\tAVILESY CCHVERSONES DE MEXEO, SA ECO Humedad\t0.00\t\r\nTransportista\tLUCKY TRUCK\tPACIVI ALMACEN DE MATERIAS PRIMA SAg Desc No Aptos.\tPLANTA PAPEL\t0.00\t\r\n0.00\t\r\nOperador\tjOSE ANTONIO VIELMAS:\tHg Desc Prohibidos\t\r\n27 SEP 2025\t•\t0.00\t\r\nPlaças\t40AY1V\tMg Desc Humedad\t\r\n24,060.00\t\r\nUbicacion\tPATIO\t, F\tE\treso Aceptado\t\r\nObservaciories\t\"NOMARE\tFIRMA\t\r\nRECOLECTORA DE FIBRAS SECUNDÄRIAS, S.A DE CV.\t\r\nALMACEN DE MATERIA PRIMA\t\r\nPLANTA GUADALUPE\t\r\nElaboro\t25 SEP 2025\t\r\nRECIBIDO\t\r\n• NOMBRE\tFIRMA\t\r\nUso confidencial, propiedad exelusíva de RECOLECTORA DE FIBRAS SECUNDARIAS, SA de CV.",
+  "corrected_timestamp": "2025-11-18T20:31:20.702111",
+  "corrected": true
+}

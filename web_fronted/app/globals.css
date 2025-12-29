@@ -1,0 +1,66 @@
+@import "tailwindcss";
+
+@keyframes elementEnterFadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(-10%);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+@keyframes slideIn {
+  from {
+    transform: translateX(-150%);
+    opacity: 0;
+  }
+  to {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+
+@keyframes slideOut {
+  from {
+    transform: translateX(0);
+    opacity: 1;
+  }
+  to {
+    transform: translateX(-150%);
+    opacity: 0;
+  }
+}
+@layer utilities {
+  .fade-out {
+    @apply opacity-0 transition-opacity duration-1300 ease-in-out;
+  }
+  .move-left {
+    @apply -translate-x-full opacity-0 transition-all duration-400 ease-in-out;
+  }
+  .bg-to-white {
+    background-color: white !important;
+    transition: background-color 1.3s ease-in-out;
+  }
+}
+
+@keyframes bubble {
+  0% {
+    transform: scale(0.6);
+    opacity: 0.4;
+  }
+  60% {
+    transform: scale(1.1);
+    opacity: 1;
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+
+@theme {
+  --animate-element-enter-fade-in: elementEnterFadeIn 1s ease-out;
+  --animate-element-bubble-in:bubble 2s ease-out;
+  --animate-element-slide-in:slideIn 1s ease-out forwards;
+  --animate-element-slide-out:slideOut 1s ease-out forwards;
+}

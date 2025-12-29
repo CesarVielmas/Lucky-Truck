@@ -1,0 +1,30 @@
+export interface FactureTrip {
+  name_business: string;
+  business_region: string;
+  business_ubication: string;
+  key: string;
+  code_facture: string;
+  type_material: string;
+  type_movement: string;
+  date_entry: string; 
+  cuantity_bales: number;
+  container: number;
+  type_document: string;
+  date_exit: string; 
+  proveedor: string;
+  name_transport: string;
+  name_operator: string;
+  plates: string;
+  ubication_trip: string;
+  gross_weight: number;
+  tare_weight: number;
+  net_weight: number;
+  not_suitable: number;
+  forbiden_weight: number;
+  humidity: number;
+  kg_desc_not_suitable: number;
+  kg_desc_forbiden: number;
+  kg_desc_humidity: number;
+  kg_desc_accepted_weight: number;
+  recibes_trip: string; 
+}
